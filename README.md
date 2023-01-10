@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on a supply chain project with solidity
+- 🌱 I’m currently learning SQL, Javascript, CSS, HTML
+- 💬 Ask me about blockchain and data analytic 
+- 📫 How to reach me: ericwang7168@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I can bend my thumb 90 degrees 👍
