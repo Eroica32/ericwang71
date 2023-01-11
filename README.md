@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a supply chain project with solidity and a portfolio balance using machine learning 
+- 🔭 I’m currently working on a supply chain project with solidity and a portfolio balancer using machine learning 
 - 🌱 I’m currently learning SQL, Javascript, CSS, HTML
-- 💬 Ask me about blockchain and data analytic 
+- 💬 Ask me about blockchain and data analytics 
 - 📫 How to reach me: ericwang7168@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can bend my thumb 90 degrees 👍
