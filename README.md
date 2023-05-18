@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a supply chain project with solidity and a portfolio balancer using machine learning 
+- 🔭 I’m currently working on a text embedding 
 - 🌱 I’m currently learning SQL, Javascript, CSS, HTML
 - 💬 Ask me about blockchain and data analytics 
 - 📫 How to reach me: ericwang7168@gmail.com
